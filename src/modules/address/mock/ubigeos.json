@@ -1,0 +1,303 @@
+[
+    {
+        "name": "Lima",
+        "ubigeo": "150101",
+        "district": "Lima",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Ancón",
+        "ubigeo": "150102",
+        "district": "Ancón",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Ate",
+        "ubigeo": "150103",
+        "district": "Ate",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Barranco",
+        "ubigeo": "150104",
+        "district": "Barranco",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Breña",
+        "ubigeo": "150105",
+        "district": "Breña",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Carabayllo",
+        "ubigeo": "150106",
+        "district": "Carabayllo",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Chaclacayo",
+        "ubigeo": "150107",
+        "district": "Chaclacayo",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Chorrillos",
+        "ubigeo": "150108",
+        "district": "Chorrillos",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Cieneguilla",
+        "ubigeo": "150109",
+        "district": "Cieneguilla",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Comas",
+        "ubigeo": "150110",
+        "district": "Comas",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "El Agustino",
+        "ubigeo": "150111",
+        "district": "El Agustino",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Independencia",
+        "ubigeo": "150112",
+        "district": "Independencia",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Jesús María",
+        "ubigeo": "150113",
+        "district": "Jesús María",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "La Molina",
+        "ubigeo": "150114",
+        "district": "La Molina",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "La Victoria",
+        "ubigeo": "150115",
+        "district": "La Victoria",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Lince",
+        "ubigeo": "150116",
+        "district": "Lince",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Los Olivos",
+        "ubigeo": "150117",
+        "district": "Los Olivos",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Lurigancho",
+        "ubigeo": "150118",
+        "district": "Lurigancho",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Lurín",
+        "ubigeo": "150119",
+        "district": "Lurín",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Magdalena del Mar",
+        "ubigeo": "150120",
+        "district": "Magdalena del Mar",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Miraflores",
+        "ubigeo": "150121",
+        "district": "Miraflores",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Pachacámac",
+        "ubigeo": "150122",
+        "district": "Pachacámac",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Pucusana",
+        "ubigeo": "150123",
+        "district": "Pucusana",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Pueblo Libre",
+        "ubigeo": "150124",
+        "district": "Pueblo Libre",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Puente Piedra",
+        "ubigeo": "150125",
+        "district": "Puente Piedra",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Punta Hermosa",
+        "ubigeo": "150126",
+        "district": "Punta Hermosa",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Punta Negra",
+        "ubigeo": "150127",
+        "district": "Punta Negra",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Rímac",
+        "ubigeo": "150128",
+        "district": "Rímac",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "San Bartolo",
+        "ubigeo": "150129",
+        "district": "San Bartolo",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "San Borja",
+        "ubigeo": "150130",
+        "district": "San Borja",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "San Isidro",
+        "ubigeo": "150131",
+        "district": "San Isidro",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "San Juan de Lurigancho",
+        "ubigeo": "150132",
+        "district": "San Juan de Lurigancho",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "San Juan de Miraflores",
+        "ubigeo": "150133",
+        "district": "San Juan de Miraflores",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "San Luis",
+        "ubigeo": "150134",
+        "district": "San Luis",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "San Martín de Porres",
+        "ubigeo": "150135",
+        "district": "San Martín de Porres",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "San Miguel",
+        "ubigeo": "150136",
+        "district": "San Miguel",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Santa Anita",
+        "ubigeo": "150137",
+        "district": "Santa Anita",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Santa María del Mar",
+        "ubigeo": "150138",
+        "district": "Santa María del Mar",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Santa Rosa",
+        "ubigeo": "150139",
+        "district": "Santa Rosa",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Santiago de Surco",
+        "ubigeo": "150140",
+        "district": "Santiago de Surco",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Surquillo",
+        "ubigeo": "150141",
+        "district": "Surquillo",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Villa El Salvador",
+        "ubigeo": "150142",
+        "district": "Villa El Salvador",
+        "province": "Lima",
+        "department": "Lima"
+    },
+    {
+        "name": "Villa María del Triunfo",
+        "ubigeo": "150143",
+        "district": "Villa María del Triunfo",
+        "province": "Lima",
+        "department": "Lima"
+    }
+]
